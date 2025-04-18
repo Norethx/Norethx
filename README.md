@@ -21,7 +21,7 @@
 
 #
 
-### `🛠️` Languages and Tools
+### `🛠️ Languages and Tools`
 
 <p align="left">
   <img alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -40,7 +40,7 @@
 
 #
 
-### `📊` Stats
+### `📊 Stats`
 
 <p align="left">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000"/>
