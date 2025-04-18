@@ -43,5 +43,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000"/>
 </p>
