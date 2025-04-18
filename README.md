@@ -1,4 +1,4 @@
-# Ronaldo Gomes Da Silva
+# Ronaldo Gomes
 
 **`Cadete na 42 São Paulo`**
 
