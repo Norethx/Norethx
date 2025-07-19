@@ -46,5 +46,5 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
 ### `📊 Stats`
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&theme=onedark"/>
 </p>
