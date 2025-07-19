@@ -2,7 +2,9 @@
 
 **`Cadete na 42 São Paulo`**
 
-<p align="justify">Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transição de carreira após atuar por anos com planejamento no setor de cobrança. Formado em Informática para Gestão de Negócios pela FATEC Mauá, desenvolvi grande familiaridade com dados e automação de processos, especialmente com SQL. Tenho experiência na criação de queries otimizadas, rotinas e procedures voltadas para performance e análise operacional. Agora, sigo expandindo minhas habilidades em desenvolvimento de software com foco em soluções escaláveis e eficientes.</p>
+<p align="justify">
+Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transição de carreira após atuar por anos com planejamento no setor de cobrança. Formado em Informática para Gestão de Negócios pela FATEC Mauá, desenvolvi grande familiaridade com dados e automação de processos, especialmente com SQL. Tenho experiência na criação de queries otimizadas, rotinas e procedures voltadas para performance e análise operacional. Agora, sigo expandindo minhas habilidades em desenvolvimento de software com foco em soluções escaláveis e eficientes.
+</p>
 
 <p align="left">
    <a href="https://www.linkedin.com/in/ronaldogdasilva/" target="_blank">
@@ -32,6 +34,7 @@
   <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+
 <p align="left">
   <a href="https://github.com/Norethx?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="Todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
@@ -43,5 +46,5 @@
 ### `📊 Stats`
 
 <p align="left">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&theme=tokyonight"/>
 </p>
