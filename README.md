@@ -14,7 +14,7 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
       <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
    <a href="https://github.com/Norethx?tab=followers" target="_blank">
-      <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Norethx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Siga-me no GitHub" src="https://img.shields.io/github/followers/Norethx?style=for-the-badge&color=236ad3&logo=github&logoColor=white&label=Follow"/>
    </a>
    <a href="https://github.com/Norethx?tab=repositories&sort=stargazers" target="_blank">
       <img alt="total stars" title="Estrelas nos repositórios" src="https://custom-icon-badges.demolab.com/github/stars/Norethx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
