@@ -6,9 +6,11 @@
 Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transição de carreira após atuar por anos com planejamento no setor de cobrança. Formado em Informática para Gestão de Negócios pela FATEC Mauá, desenvolvi grande familiaridade com dados e automação de processos, especialmente com SQL. Tenho experiência na criação de queries otimizadas, rotinas e procedures voltadas para performance e análise operacional. Agora, sigo expandindo minhas habilidades em desenvolvimento de software com foco em soluções escaláveis e eficientes.
 </p>
 
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noreth&hide_border=true&title_color=22C55E&text_color=22C55E&icon_color=22C55E&bg_color=1a1a1a"/>
 </div>
+
 ---
 
 <p align="left">
