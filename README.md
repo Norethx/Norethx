@@ -1,3 +1,11 @@
+# `📊 WakaTime Stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noreth&hide_border=true&title_color=22C55E&text_color=22C55E&icon_color=22C55E&bg_color=1a1a1a"/>
+</div>
+
+---
+
 # Ronaldo Gomes
 
 **`Cadete na 42 São Paulo`**
@@ -21,7 +29,7 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
    </a>
 </p>
 
-#
+---
 
 ### `🛠️ Languages and Tools`
 
@@ -41,12 +49,10 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
   </a>
 </p>
 
-#
+---
 
-### `📊 Stats`
+### `📈 GitHub Stats`
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Norethx&show_icons=true&hide_border=true&title_color=22C55E&text_color=22C55E&icon_color=22C55E&bg_color=1a1a1a"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noreth&hide_border=true&title_color=22C55E&text_color=22C55E&icon_color=22C55E&bg_color=1a1a1a"/>
 </div>
-
