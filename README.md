@@ -9,6 +9,7 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noreth&hide_border=true&title_color=22C55E&text_color=22C55E&icon_color=22C55E&bg_color=1a1a1a"/>
 </div>
+----
 
 <p align="left">
    <a href="https://www.linkedin.com/in/ronaldogdasilva/" target="_blank">
