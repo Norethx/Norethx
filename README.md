@@ -7,10 +7,10 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
 </p>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/ronaldogdasilva/" target="_blank">
+   <a href="https://www.linkedin.com/in/ronaldogdasilva/">
       <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://www.instagram.com/ron.silva_/" target="_blank">
+   <a href="https://www.instagram.com/ron.silva_/">
       <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
        <a href="https://github.com/Norethx?tab=followers">
