@@ -25,7 +25,7 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noreth&layout=compact&hide_border=true&title_color=22C55E&text_color=22C55E&bg_color=1a1a1a"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noreth&layout=compact&hide_border=true&title_color=22C55E&text_color=22C55E&bg_color=1a1a1a"/>
 </div>
 
 ---
