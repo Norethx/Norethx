@@ -19,8 +19,15 @@ Atualmente estudante de Engenharia de Software na 42 São Paulo, estou em transi
    <a href="https://github.com/Norethx?tab=repositories&sort=stargazers" target="_blank">
       <img alt="total stars" title="Estrelas nos repositórios" src="https://custom-icon-badges.demolab.com/github/stars/Norethx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
+   <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Norethx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
 </p>
-
+    
 ---
 
 
